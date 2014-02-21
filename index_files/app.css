@@ -4,3 +4,20 @@
   padding-top: 180px;
   padding-bottom: 181px;
 }
+
+.carousel-inner > .item > img {
+  /*top: -40%;*/
+  bottom: 500px;
+  width: 100%;
+  min-width: 666px;
+  max-width: none;
+  height: auto;
+  min-height: 500px;
+}
+
+.featurette-image {
+  max-height: 500;
+  max-width: 500;
+  height: auto;
+  width: auto;
+}
