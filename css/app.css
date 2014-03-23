@@ -21,3 +21,24 @@
   height: auto;
   width: auto;
 }
+
+.featurette {
+  opacity: 0;
+}
+
+.connect {
+  opacity: 0;
+}
+
+#github.animated {
+  animation-delay:.1s;
+  -webkit-animation-delay:.1s;
+}
+#linkedin.animated {
+  animation-delay:.2s;
+  -webkit-animation-delay:.2s;
+}
+#facebook.animated {
+  animation-delay:.3s;
+  -webkit-animation-delay:.3s;
+}
