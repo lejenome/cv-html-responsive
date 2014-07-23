@@ -5,6 +5,11 @@
   padding-bottom: 181px;
 }
 
+#epic {
+  padding-top: 80px;
+  padding-bottom: 81px;
+}
+
 .carousel-inner > .item > img {
   position: absolute;
   bottom: 500px;

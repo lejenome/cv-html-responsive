@@ -10,6 +10,9 @@ $('#linkedin').addClass("animated fadeIn");
 $('#facebook').addClass("animated fadeIn");
 
 // featurette animations
+$('#epic-featurette').waypoint(function(){
+  $('#epic-featurette').addClass("animated fadeInLeft");
+}, { offset: '85%' });
 $('#utarl-featurette').waypoint(function(){
   $('#utarl-featurette').addClass("animated fadeInRight");
 }, { offset: '85%' });
